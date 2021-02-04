@@ -1,0 +1,42 @@
+body{
+	background:linear-gradient(#FB1111,#0BEFDC );
+	height: 100vh;
+	}
+#input{
+	background:transparent;
+	border-radius: 10px;
+	border-color:#F7F530;
+	height: 25px
+}
+.wrapper{
+	background-color:#64F74C ;
+	width: 400px;
+	padding: 20px;
+	margin: 100px auto;
+	align-content:center;
+	border-radius: 10px;
+}
+h2{
+	
+	font-size: 30px;
+	font-style:
+}
+li > input[type="button"]{
+	background: transparent;
+	margin-left: 5px;
+	border-color: red;
+	border-radius: 6px;
+	cursor: pointer;
+}
+li > input[type="button"]:hover{
+	background: red;
+	color: white;
+	border-radius: 1px;
+}
+#btn{
+	color: white;
+	background: orange;
+	height: 27px;
+	font-size: 18px;
+	cursor: pointer;
+}
